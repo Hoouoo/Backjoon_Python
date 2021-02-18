@@ -8,3 +8,9 @@ for first in arrHeightWeight: # loop arrHeightWeight
         # print(first[0], first[1], second[0], second[1])
 
     print(rank, end=' ')
+
+
+# *l,=eval(int(input())*'input().split(),')
+# l1, *l = 1, 2, 3, 4
+# print(l)
+# print(*[sum((c>a)*(b<d)for c,d in l)+1for a,b in l])
